@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤓 I'm a Full Stack Data Scientist and Team Manager who likes to mix code and data to create meaningful services. 
+- 🤓 I'm a Full Stack Data (Engineer|Scientist|Human) and Team Manager who likes to mix code and data to create meaningful services. 
 - 💚 I'm currently supporting the next generation of sustainable packaging at [one.five](https://one-five.com)
 - 🤙 My pronouns are she/her or they/them
 - 🌈 Proud 🌈
