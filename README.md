@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🤓 I'm a Full Stack Data (Engineer|Scientist|Human) and Technical Manager who likes to mix code and data to create meaningful services. 
-- 💚 I'm currently supporting the next generation of sustainable packaging development at [one.five](https://one-five.com)
 - 🤙 My pronouns are she/her or they/them
 - 🌈 Proud 🌈
