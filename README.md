@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 - 🤓 I'm a Full Stack Data (Engineer|Scientist|Human) and Technical Manager who likes to mix code and data to create meaningful services. 
 - 🤙 My pronouns are she/her or they/them
-- 👀 Most of my cool code is private, sorry
